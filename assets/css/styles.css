@@ -1,6 +1,7 @@
 h1,h2 {
   font-family: "Roboto", sans-serif;
-  color: darkgrey;
+  color: grey;
+  font-style: bold;
 }
 
 p,li {
